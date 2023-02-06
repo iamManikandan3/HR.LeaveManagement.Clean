@@ -1,0 +1,15 @@
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.deps.json
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\refint\HR.LeaveManagement.Application.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net6.0\ref\HR.LeaveManagement.Application.dll
