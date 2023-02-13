@@ -1,0 +1,17 @@
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Infrastructure.deps.json
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Infrastructure.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Infrastructure.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\refint\HR.LeaveManagement.Infrastructure.dll
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.pdb
+C:\Users\manikandan.p\Source\Repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\ref\HR.LeaveManagement.Infrastructure.dll

@@ -34,11 +34,14 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.UpdateLeave
                 throw new BadRequestException("Invalid leave type", validationResult);
             }
 
-            // convert to domain entity object
-            var leaveTypeToUpdate = _mapper.Map<Domain.LeaveType>(request);
+            var leaveType = await _leaveTypeRepository.GetByIdAsync(request.Id);
+            if (leaveType is null)
+                throw new NotFoundException(nameof(LeaveAllocation), request.Id);
+
+            _mapper.Map(request, leaveType); // right way to do when update. Bcz it won't affect if the properties changes. Ref: video-42(18:00)
 
             // update to the database
-            await _leaveTypeRepository.UpdateAsync(leaveTypeToUpdate);
+            await _leaveTypeRepository.UpdateAsync(leaveType);
 
             // return unit value
             return Unit.Value;
